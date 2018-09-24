@@ -1,0 +1,9 @@
+name: Guilds
+version: 1.0
+author: Okapifan
+main: me.okapia.guilds.main
+description: Okapifan's Guild Plugin
+commands:
+    guilds:
+        description: All guilds commands
+        aliases: [guilds,guild]

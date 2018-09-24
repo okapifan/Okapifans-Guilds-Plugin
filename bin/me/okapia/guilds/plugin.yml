@@ -1,0 +1,6 @@
+name: Guilds
+version: 1.0
+author: Okapifan
+main: me.okapia.guilds.Main
+desciption: Okapians Guild Plugin
+commands:
