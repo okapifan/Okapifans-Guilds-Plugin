@@ -1,1 +1,1 @@
-# guilds
+# Spigot: Okapifans Guilds Plugin
